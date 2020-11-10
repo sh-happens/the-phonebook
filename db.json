@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "name": "Ada Lovelace",
+      "number": "124325",
+      "id": 2
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": 3
+    },
+    {
+      "name": "roma",
+      "number": "1234",
+      "id": 6
+    },
+    {
+      "name": "roma",
+      "number": "1234",
+      "id": 7
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "124325",
+      "id": 8
+    }
+  ]
+}
