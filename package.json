@@ -16,7 +16,11 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+<<<<<<< HEAD
     "server": "json-server -p3001 --watch db.json"
+=======
+    "server": "json-server -p3001 db.json"
+>>>>>>> 6f381decd3b1f688cc7f7a806f7d0874fd89700e
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,5 +37,12 @@
       "last 1 safari version"
     ]
   },
+<<<<<<< HEAD
   "proxy": "http://localhost:3001"
 }
+=======
+  "devDependencies": {
+    "json-server": "^0.16.1"
+  }
+}
+>>>>>>> 6f381decd3b1f688cc7f7a806f7d0874fd89700e
