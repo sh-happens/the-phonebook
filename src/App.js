@@ -49,7 +49,6 @@ const App = () => {
               )
             );
             setNewNumber("");
-            setNewNumber("");
             showMessage(`User ${newName} phone number updated`);
           })
           .catch((error) => {
